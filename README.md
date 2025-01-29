@@ -1,5 +1,10 @@
 # My_3DS_works
-Repository dove vengono descritti dettagliatamente gli oggetti che stampo in 3D :) 
+
+<a href="https://github.com/R0mb0/My_3DS_works/tree/main/Porta_penne_v1">
+
+![Porta penne v1](https://github.com/R0mb0/My_3DS_works/blob/main/Porta_penne_v1/Porta_penne_v1.png)
+
+</a>
 
 ---
 
