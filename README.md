@@ -1,10 +1,10 @@
 # My_3DS_works
 
-<a href="https://github.com/R0mb0/My_3DS_works/tree/main/Porta_penne_v1">
-
-![Porta penne v1](https://github.com/R0mb0/My_3DS_works/blob/main/Porta_penne_v1/Porta_penne_v1.png)
-
-</a>
+<div align="center">
+  <a href="https://github.com/R0mb0/My_3DS_works/tree/main/Porta_penne_v1">
+    <img height="50%" width="50%" src="https://github.com/R0mb0/My_3DS_works/blob/main/Porta_penne_v1/Porta_penne_v1.png" alt="Porta penne v1" />
+  </a>
+</div>
 
 ---
 
